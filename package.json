@@ -10,6 +10,7 @@
     "debug": "~2.6.9",
     "ejs": "~2.6.1",
     "express": "~4.16.1",
+    "express-async-handler": "^1.1.4",
     "http-errors": "~1.6.3",
     "lokijs": "^1.5.11",
     "moment": "^2.29.1",
