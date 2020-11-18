@@ -45,18 +45,19 @@ router.get('/hour', function(req, res, next) {
   res.status(200).send('OK '+results[results.length-1].temperature);
 });
 
-// Retrieve all data given date
+// Retrieve all data between given dates
 router.get('/all', asyncHandler(async(req, res) => {
 
-  let date;
+  let date1, date2;
   try{
-    date = parseInt(req.query.d);
-    console.log(moment(date).format("DD-MMM-YYYY, h:mm:ss "));
+    date1 = parseInt(req.query.d1);
+    date2 = parseInt(req.query.d2);
+    // console.log(moment(date1).format("DD-MMM-YYYY, h:mm:ss "));
   }catch (err) {
-    res.status(500).send("Date is not valid");
+    res.status(500).send("Date(s) not valid");
   }
 
-  console.log("get all -> " + date);
+  console.log("get from -> " + date1 + " to -> " + date2);
 
   const results = [];
 
@@ -71,8 +72,8 @@ router.get('/all', asyncHandler(async(req, res) => {
   const col = db.collection("bme280collection");
 
   // Find one document
-  // let parameters = [];
-  col.find({"date": {$gte : parseInt(date)}}).toArray(function(error, documents) {
+
+  col.find({"date": {$gte : parseInt(date1), $lt : parseInt(date2)}}).toArray(function(error, documents) {
     if (error) throw error;
     console.log(documents.length);
     documents.forEach(document => {
@@ -81,11 +82,60 @@ router.get('/all', asyncHandler(async(req, res) => {
     if(!results || results.length === 0) {
       res.status(404).send({error : "No results were found"})
     }else{
-      res.status(200).send(results)
+      res.status(200).send(results);
     }
   });
 }))
 
+// Retrieve average temperature between given dates
+router.get('/avgTemp', asyncHandler(async(req, res) => {
+
+  let date1, date2;
+  try{
+    date1 = parseInt(req.query.d1);
+    date2 = parseInt(req.query.d2);
+    // console.log(moment(date1).format("DD-MMM-YYYY, h:mm:ss "));
+  }catch (err) {
+    res.status(500).send("Date(s) not valid");
+  }
+
+  console.log("get from -> " + date1 + " to -> " + date2);
+
+  if(!client.isConnected){
+    console.log("Have to reconnect");
+    await client.connect();
+  }
+  console.log("Connected correctly to server");
+  const db = client.db("bme280database");
+
+  // Use the collection "people"
+  const col = db.collection("bme280collection");
+
+  // Find documents
+  const results = [];
+  col.find({"date": {$gte : parseInt(date1), $lt : parseInt(date2)}}).toArray(function(error, documents) {
+    if (error) throw error;
+    console.log(documents.length);
+    documents.forEach(document => {
+      results.push(document);
+    })
+    if(!results || results.length === 0) {
+      res.status(404).send({error : "No results were found"})
+    }else{
+      let avg = 0;
+      results.forEach(document => {
+        avg = avg + document.temperature;
+      })
+      // console.log(avg);
+      avg = avg / results.length;
+      console.log(avg);
+      res.status(200).json({temperature: avg.toFixed(2)});
+    }
+  });
+}))
+
+
+// NodeMCU8266 sends data to server
 router.post('/all', asyncHandler(async(req, res) => {
 
   const data = req.body;
@@ -102,8 +152,6 @@ router.post('/all', asyncHandler(async(req, res) => {
 
   res.status(200).send('OK ');
 }))
-
-
 
 async function insertData(personDocument) {
   try {
@@ -138,7 +186,7 @@ async function insertData(personDocument) {
 }
 
 async function getData(d) {
-  try {
+  // try {
     if(!client.isConnected){
       console.log("Have to reconnect");
       await client.connect();
@@ -158,15 +206,14 @@ async function getData(d) {
     });
     // Print to the console
 
-  } catch (err) {
-    console.log(err.stack);
-    return null;
-  }
+  // } catch (err) {
+  //   console.log(err.stack);
+  //   return null;
+  // }
 
   // finally {
   //   await client.close();
   // }
 }
-
 
 module.exports = router;
