@@ -30,7 +30,7 @@ router.get('/hour', function(req, res, next) {
   // simple anonymous filter
   // console.log(bme280.data);
   console.log("get all");
-  let oneMin = Date.now() - 60*1000;
+  let oneMin = Date.now() - 60*1000*60;
   // console.log(moment().format("DD-MMM-YYYY, h:mm:ss "));
   // console.log(oneMin.format("DD-MMM-YYYY, h:mm:ss "));
   // let results = bme280.find({'date': {'$gt': oneMin}});
@@ -134,6 +134,43 @@ router.get('/avgTemp', asyncHandler(async(req, res) => {
   });
 }))
 
+// Retrieve average temperature in past hour
+router.get('/avgTemph', asyncHandler(async(req, res) => {
+
+  let oneHour = Date.now() - 60*1000*60;
+
+  if(!client.isConnected){
+    console.log("Have to reconnect");
+    await client.connect();
+  }
+  console.log("Connected correctly to server");
+  const db = client.db("bme280database");
+
+  // Use the collection "people"
+  const col = db.collection("bme280collection");
+
+  // Find documents
+  const results = [];
+  col.find({"date": {$gte : oneHour}}).toArray(function(error, documents) {
+    if (error) throw error;
+    console.log(documents.length);
+    documents.forEach(document => {
+      results.push(document);
+    })
+    if(!results || results.length === 0) {
+      res.status(404).send({error : "No results were found"})
+    }else{
+      let avg = 0;
+      results.forEach(document => {
+        avg = avg + document.temperature;
+      })
+      // console.log(avg);
+      avg = avg / results.length;
+      console.log(avg);
+      res.status(200).json({temperature: avg.toFixed(2)});
+    }
+  });
+}))
 
 // NodeMCU8266 sends data to server
 router.post('/all', asyncHandler(async(req, res) => {
@@ -148,7 +185,7 @@ router.post('/all', asyncHandler(async(req, res) => {
   };
   // console.log(myobj);
 
-  // await insertData(myobj)
+  await insertData(myobj)
 
   res.status(200).send('OK ');
 }))
