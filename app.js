@@ -1,8 +1,13 @@
+'use strict'
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
+
+// Import DB Connection
+require("./bin/config");
+// Import API route
 
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
