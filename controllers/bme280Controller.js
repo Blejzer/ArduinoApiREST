@@ -163,15 +163,15 @@ exports.updateData = (req, res) => {
 };
 
 // deleteData function - To delete data by id
-exports.deleteData = async ( req, res) => {
-    await  Data.deleteOne({ _id:req.params.id }, (err) => {
-        if (err) {
-            return res.status(404).send(err);
-        }
-        res.status(200).json({ message:"Data successfully deleted"});
-    });
-};
-
+// exports.deleteData = async ( req, res) => {
+//     await  Data.deleteOne({ _id:req.params.id }, (err) => {
+//         if (err) {
+//             return res.status(404).send(err);
+//         }
+//         res.status(200).json({ message:"Data successfully deleted"});
+//     });
+// };
+//
 
 
 
