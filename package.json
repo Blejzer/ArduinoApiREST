@@ -13,7 +13,7 @@
     "express-async-handler": "^1.1.4",
     "http-errors": "~1.6.3",
     "lokijs": "^1.5.11",
-    "moment": "^2.29.2",
+    "moment": "^2.29.4",
     "mongodb": "^3.6.2",
     "mongoose": "^5.13.15",
     "morgan": "~1.9.1"
