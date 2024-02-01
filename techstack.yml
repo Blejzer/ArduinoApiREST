@@ -1,0 +1,3720 @@
+repo_name: Blejzer/ArduinoApiREST
+report_id: 6196dd254bbdc7eda3d3ed6530275a3c
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-01T07:42:15+00:00'
+requested_by: Blejzer
+provider: github
+branch: master
+detected_tools_count: 282
+tools:
+- name: Bel
+  description: A new dialect of Lisp, by Paul Graham
+  website_url: http://paulgraham.com/bel.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/11408/no-img-open-source.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/lokijs/package.json
+  detection_source: node_modules/lokijs/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST
+  detection_source: Repo Metadata
+- name: D
+  description: Modern convenience. Modeling power. Native efficiency.
+  website_url: http://dlang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3117/d-5.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: EJS
+  description: An Embedded JavaScript templating Language
+  website_url: https://ejs.co/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/ejs/package.json
+  detection_source: node_modules/ejs/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: ES6
+  description: The next version of JavaScript
+  website_url: http://www.ecma-international.org/ecma-262/6.0/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4109/16407404782_8b9c57eab3.jpg
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: Eta
+  description: A powerful language for building scalable systems on the JVM
+  website_url: http://eta-lang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6490/2OjlqE5m.jpg
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: Eve
+  description: Programming designed for humans
+  website_url: http://programming.witheve.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/5985/qbJoNuap.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: JSON
+  description: A lightweight data-interchange format
+  website_url: http://www.json.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2880/1024px-JSON_vector_logo.svg.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/lokijs/package.json
+  detection_source: node_modules/lokijs/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/lokijs/package.json
+  detection_source: node_modules/lokijs/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST
+  detection_source: Repo Metadata
+- name: Markdown
+  description: Text-to-HTML conversion tool/syntax for web writers, by John Gruber
+  website_url: http://daringfireball.net/projects/markdown/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1147/markdown.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/morgan/package.json
+  detection_source: node_modules/morgan/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/morgan/package.json
+  detection_source: node_modules/morgan/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/lokijs/package.json
+  detection_source: node_modules/lokijs/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: Swift
+  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  version: 1.8.10
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: D3.js
+  description: A JavaScript visualization library for HTML and SVG
+  website_url: http://d3js.org/
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/1491/HgKolWB5_400x400.jpg
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/morgan/package.json
+  detection_source: node_modules/morgan/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: Dojo
+  description: A Progressive TypeScript Framework for Modern Web Apps
+  website_url: http://dojotoolkit.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/2031/5XGyNboe_400x400.jpg
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: Echo
+  description: High performance, extensible, minimalist Go web framework
+  website_url: https://echo.labstack.com
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/4996/9P0MlumU_400x400.jpg
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/lokijs/package.json
+  detection_source: node_modules/lokijs/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: Lit
+  description: "441 byte responsive \U0001F525 CSS framework"
+  website_url: https://ajusa.github.io/lit/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: Next.js
+  description: 'A small framework for server-rendered universal JavaScript apps '
+  website_url: https://nextjs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5936/nextjs.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: Omi
+  description: Next generation web framework in 4KB JavaScript (Web Components + JSX
+    + Proxy + Path Updating)
+  website_url: https://github.com/Tencent/omi
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/9702/omi-logo.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: Play
+  description: The High Velocity Web Framework For Java and Scala
+  website_url: http://www.playframework.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1013/HqN22PuY.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: Prototype
+  description: Prototype JavaScript framework
+  website_url: http://prototypejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/3597/o_bigger_400x400.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/express/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: REST
+  description: A software architectural style
+  website_url: https://en.wikipedia.org/wiki/Representational_state_transfer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Remote Procedure Call (RPC)
+  image_url: https://img.stackshare.io/service/2969/0Zflj6Y__400x400.jpg
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/express/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: DB
+  description: 'Version control for databases: save, restore, and archive snapshots
+    of your database from the command line'
+  website_url: https://github.com/infostreams/db
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/11593/no-img.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/lokijs/package.json
+  detection_source: node_modules/lokijs/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: IndexedDB
+  description: A low-level API for client-side storage of significant amounts of structured
+    data
+  website_url: https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/3991/New_Project__92_.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/lokijs/package.json
+  detection_source: node_modules/lokijs/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: LokiJS
+  description: In-memory JavaScript Datastore with Persistence
+  website_url: http://lokijs.org
+  version: 1.5.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: In-Memory Databases
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/lokijs/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: MongoDB
+  description: The database for giant ideas
+  website_url: http://www.mongodb.com/
+  version: 3.7.4
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/mongodb/lib/admin.js
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: Mongoose
+  description: MongoDB object modeling designed to work in an asynchronous environment
+  website_url: http://mongoosejs.com/
+  version: 5.13.20
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Document Mapper (ODM)
+  image_url: https://img.stackshare.io/service/1231/0TXzZU7W_400x400.jpg
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-07-18 20:59:44.000000000 Z
+- name: Redis
+  description: Open source (BSD licensed), in-memory data structure store
+  website_url: http://redis.io/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: In-Memory Databases
+  image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/express/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: dat
+  description: Real-time replication and versioning for data sets
+  website_url: http://dat-data.com/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/2504/1ca014a423414068bf3462747c3ef894.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/lokijs/package.json
+  detection_source: node_modules/lokijs/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: ent
+  description: An entity framework for Go
+  website_url: https://entgo.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/21146/default_3b393819f74c4cb10f98fa9e683fa28cf6cc85f5.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/express/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: ws
+  description: A Node.js WebSocket library
+  website_url: https://github.com/websockets/ws
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/11381/no-img-open-source.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: Ace
+  description: Embeddable code editor written in JavaScript
+  website_url: https://ace.c9.io
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Collaborative Text Editor
+  image_url: https://img.stackshare.io/service/5372/ACE-Cloud9-EDITOR-Social-Media-icon.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: Browserify
+  description: Browser-side require() the node.js way
+  website_url: http://browserify.org/
+  version: 16.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/849/9esmqty2.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 4.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: Coveralls
+  description: Track your project's code coverage over time, changes to files, and
+    badge your GitHub repo
+  website_url: https://coveralls.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST
+  detection_source: Repo Metadata
+- name: Grunt
+  description: The JavaScript Task Runner
+  website_url: http://gruntjs.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: Istanbul
+  description: A JS code coverage tool written in JS
+  website_url: http://gotwarlost.github.io/istanbul/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/2105/default_78659c552327b8ff3592c2aa1694ea92c974a8d5.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: JSHint
+  description: A Static Code Analysis Tool for JavaScript
+  website_url: http://www.jshint.com/about/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/1945/mzh2bRes_400x400.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/lokijs/package.json
+  detection_source: node_modules/lokijs/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: JSPM
+  description: Frictionless browser package management
+  website_url: http://jspm.io/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2869/SD4SNJm8_400x400.jpg
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: Jasmine
+  description: DOM-less simple JavaScript testing framework
+  website_url: http://jasmine.github.io/
+  version: 2.4.1
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/lokijs/package.json
+  detection_source: node_modules/lokijs/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: Karma
+  description: Spectacular Test Runner for JavaScript
+  website_url: http://karma-runner.github.io/
+  version: 3.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: Loki
+  description: Like Prometheus, but for logs (by the makers of Grafana)
+  website_url: https://github.com/grafana/loki
+  license: AGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Logging Tools
+  image_url: https://img.stackshare.io/service/10079/loki.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/lokijs/package.json
+  detection_source: node_modules/lokijs/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 9.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: PhantomJS
+  description: Scriptable Headless WebKit
+  website_url: https://phantomjs.org/
+  version: 1.9.20
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/1832/phantomjs.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/lokijs/package.json
+  detection_source: node_modules/lokijs/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: Prettier
+  description: 'Prettier is an opinionated code formatter. '
+  website_url: https://prettier.io/
+  version: 1.19.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/morgan/package.json
+  detection_source: node_modules/morgan/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: QUnit
+  description: A JavaScript Unit Testing framework
+  website_url: http://qunitjs.com/
+  version: 2.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1421/b706f022230831a3d391db504a139e21.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: Rome
+  description: A linter, compiler, bundler, and more for JavaScript, TypeScript, JSON,
+    HTML, Markdown, and CSS
+  website_url: https://rome.tools/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/25589/default_4a6d6ac5f685e81da1aeeb4f9dfe938685fdf940.jpg
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/morgan/package.json
+  detection_source: node_modules/morgan/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: SPM
+  description: Monitoring, Alerting, and Anomaly Detection
+  website_url: http://sematext.com/spm/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Performance Monitoring
+  image_url: https://img.stackshare.io/service/1502/U6v1Ke11_400x400.jpg
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: SinonJS
+  description: Standalone test spies, stubs and mocks for JavaScript
+  website_url: http://sinonjs.org/
+  version: 4.3.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/3509/logo.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: Split
+  description: 'Split provides a unified solution for feature flags and experimentation '
+  website_url: http://www.split.io
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Feature Flags Management
+  image_url: https://img.stackshare.io/service/6588/default_2be28faff45ce2d9a308cf9c36820697303a7c11.jpg
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/morgan/package.json
+  detection_source: node_modules/morgan/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: SuperTest
+  description: 'A library for testing node.js HTTP servers '
+  website_url: https://www.npmjs.com/package/supertest
+  version: 6.1.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/lokijs/.travis.yml
+  detection_source: node_modules/lokijs/.travis.yml
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: hub
+  description: Wraps Git with extra features that make working with GitHub easier
+    (by GitHub)
+  website_url: http://hub.github.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Git Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: rollup
+  description: The next-generation JavaScript module bundler
+  website_url: http://rollupjs.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: Apache Camel
+  description: A versatile open source integration framework
+  website_url: https://camel.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: Parse
+  description: The complete mobile app platform
+  website_url: https://parse.com
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Mobile Backend
+  image_url: https://img.stackshare.io/service/86/68wTsXcT.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: Buffer
+  description: The easiest way to schedule tweets, Facebook posts and more
+  website_url: https://bufferapp.com/
+  open_source: false
+  hosted_saas: true
+  category: Support, Sales, and Marketing
+  sub_category: Social Media Tools
+  image_url: https://img.stackshare.io/service/825/hnc3q-7x.jpg
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/express/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: Chartio
+  description: A powerful Business Intelligence tool anyone can use
+  website_url: https://chartio.com
+  open_source: false
+  hosted_saas: true
+  category: Analytics
+  sub_category: Business Intelligence
+  image_url: https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/morgan/package.json
+  detection_source: node_modules/morgan/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: Gmail
+  description: A free web-based e-mail service
+  website_url: https://mail.google.com
+  open_source: false
+  hosted_saas: true
+  category: Back Office
+  sub_category: Email Services
+  image_url: https://img.stackshare.io/service/3167/default_2d280843054d533c0a56c573c2e47e2cc1105a88.jpg
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: Omise
+  description: An online payment gateway offering a wide range of processing solutions
+    for any business need
+  website_url: https://www.omise.co/
+  open_source: false
+  hosted_saas: true
+  category: Payments
+  sub_category: Payment Services
+  image_url: https://img.stackshare.io/service/8491/jYzpfxho_400x400.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: Typ
+  description: Turn Markdown into formatted PDFs
+  website_url: https://www.typ-set.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: File Conversion
+  image_url: https://img.stackshare.io/service/11914/typ.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: jsDelivr
+  description: A free Open Source CDN for webmasters and developers with full JS ESM
+    support
+  website_url: https://www.jsdelivr.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Content Delivery Network
+  image_url: https://img.stackshare.io/service/2554/6191378.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/ejs/package.json
+  detection_source: node_modules/ejs/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: AMP
+  description: A web component framework
+  website_url: https://www.ampproject.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Mobile
+  sub_category: Mobile UI Components
+  image_url: https://img.stackshare.io/service/6006/amp.jpg
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/lokijs/package.json
+  detection_source: node_modules/lokijs/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: APT
+  description: A set of tools for managing Debian packages.
+  website_url: https://wiki.debian.org/Apt
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8701/apt.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/lokijs/package.json
+  detection_source: node_modules/lokijs/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: CAS
+  description: How people build software
+  website_url: http://jasig.github.io/cas/4.2.x/index.html
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4987/pBeeJQDQ_normal.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: Copy
+  description: Accessible Cloud Storage from @Barracuda — Save your work. Save your
+    life.
+  website_url: http://copy.com
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2492/Ie9kefsM_normal.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: EC
+  website_url: BUG
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4455/no-img-open-source.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: ECT
+  website_url: http://ectjs.com/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2391/no-img-open-source.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/ejs/package.json
+  detection_source: node_modules/ejs/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: FIX
+  description: We build tools to help make trading connections faster and easier.
+    Hosted and enterprise. Multi-asset class and multi-protocol.
+  website_url: https://fixspec.com/FIX/4.2
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/6473/331jv9hea1czuo3qghna_normal.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: Fetch
+  description: Fetch provides delivery for any product that is available locally in
+    under one hour
+  website_url: http://www.wefetch.it/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/1546/7iT3i191.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/morgan/package.json
+  detection_source: node_modules/morgan/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: Firefox
+  description: Mozilla's Web Browser
+  website_url: https://www.mozilla.org/en-US/firefox/
+  open_source: false
+  hosted_saas: false
+  category: Back Office
+  sub_category: Web Browser
+  image_url: https://img.stackshare.io/service/8705/768px-Firefox_Logo__2017.svg.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: Frame
+  description: Run any software in a browser.
+  website_url: https://fra.me
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/3795/Frame_Logo_Square.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/express/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: Kerberos
+  description: 'The Massachusetts Institute of Technology is a world leader in research
+    and education. Related accounts: @MITevents, @MITvideo Full list: http://t.co/yi6zEYtL6J'
+  website_url: https://web.mit.edu/kerberos/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/6491/C_SBTZQ__normal.jpg
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: LDAP
+  description: A lightweight directory access protocol
+  website_url: https://ldap.com/
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: User Management and Authentication
+  image_url: https://img.stackshare.io/service/12841/default_317bb0c71bd33e4bfa45b80be549c80ac1bd69b1.jpg
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.19
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: Moment.js
+  description: A JavaScript date library for parsing, validating, manipulating, and
+    formatting dates
+  website_url: http://momentjs.com/
+  version: 2.29.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: OpenLayers
+  description: A high-performance, feature-packed library for all your mapping needs
+  website_url: http://openlayers.org/
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Mapping APIs
+  image_url: https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: Per
+  description: Offer usage-based billing to your customers without the work.
+  website_url: https://www.useper.com
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10232/logo-500x300.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: Q
+  description: A promise library for JavaScript
+  website_url: https://github.com/kriskowal/q
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: RESTful
+  description: The official Twitter account for the sum of all knowledge, Wikipedia.
+    Overseen by @jeffelder.
+  website_url: https://en.wikipedia.org/wiki/Representational_state_transfer
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/5681/nZXfdUQq_normal.jpg
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/express/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: React Navigation
+  description: Flexible navigation library for React Native and web. Learn once, navigate
+    anywhere.
+  website_url: https://reactnavigation.org/
+  open_source: false
+  hosted_saas: false
+  category: Mobile
+  sub_category: Cross-Platform Mobile Tools
+  image_url: https://img.stackshare.io/service/6422/react-navigation.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/ejs/package.json
+  detection_source: node_modules/ejs/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: S3
+  description: Official Twitter of http://t.co/4rwjfdidk3.   Contact @AmazonHelp for
+    customer support.
+  website_url: http://aws.amazon.com/s3/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/1994/ClSB1Oo__normal.jpg
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: Try
+  description: Run a command and inspect its effects before changing your live system
+  website_url: https://github.com/binpash/try
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Shell Utilities
+  image_url: https://img.stackshare.io/service/101825/default_fee6db27033c9348cbd52a828bd0a3b0776c3ed1.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/morgan/package.json
+  detection_source: node_modules/morgan/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: UglifyJS
+  description: A JavaScript parser, minifier, compressor and beautifier toolkit.
+  website_url: http://lisperator.net/uglifyjs/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2203/default_9058af6f02375a99f634f537d727e32df92ac262.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/lokijs/package.json
+  detection_source: node_modules/lokijs/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: Vercel AI SDK
+  description: An interoperable, streaming-enabled, edge-ready software development
+    kit for AI apps
+  website_url: https://sdk.vercel.ai/docs
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: aws
+  description: Official Twitter of http://t.co/4rwjfdidk3.   Contact @AmazonHelp for
+    customer support.
+  website_url: http://aws.amazon.com/console/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4899/ClSB1Oo__normal.jpg
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: crea
+  description: 'Protocol for the creation of hypermedia dapps based on the #blockchain
+    that rewards creatives and curators of digital content. #IPFS #DPOS #CC $CREA
+    @crearynet'
+  website_url: https://creaproject.io
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10991/RLwUWE7F_normal.jpg
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: ffi
+  website_url: https://github.com/ffi/ffi
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2558/111990.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: js
+  website_url: www.js.com
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/5588/jscom.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: jsdoc
+  description: An API documentation generator for JavaScript
+  website_url: http://usejsdoc.org/
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Documentation as a Service & Tools
+  image_url: https://img.stackshare.io/service/4047/js-doc.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/ejs/package.json
+  detection_source: node_modules/ejs/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: nci
+  description: Flexible, open source continuous integration server written in node.js
+  website_url: https://github.com/node-ci/nci
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/7802/13189529.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: pkg
+  description: Package your Node.js project into an executable
+  website_url: https://www.npmjs.com/package/pkg
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/6883/repo-banner.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/ejs/package.json
+  detection_source: node_modules/ejs/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: xo
+  description: Zero configuration fixer and linter for javascript code.
+  website_url: https://www.npmjs.com/package/xo
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4535/no-img-open-source.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: "@octokit/rest"
+  description: GitHub REST API client for Node.js
+  package_url: https://www.npmjs.com/@octokit/rest
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16999/default_43f23668e39c9b3381720c9c76540776b8a49167.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: "@types/chai"
+  description: TypeScript definitions for chai
+  package_url: https://www.npmjs.com/@types/chai
+  version: 4.2.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15922/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: "@types/mocha"
+  description: TypeScript definitions for mocha
+  package_url: https://www.npmjs.com/@types/mocha
+  version: 8.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15893/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 18.11.18
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: accepts
+  description: Higher-level content negotiation
+  package_url: https://www.npmjs.com/accepts
+  version: 1.3.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17723/default_552addbbff67ec0ef62ce1d229e112d14ca818f5.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: after
+  description: After - tiny flow control
+  package_url: https://www.npmjs.com/after
+  version: 0.8.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17934/default_c741d08ac1035482640dcd4a57c59231d0ce4858.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/express/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: ai
+  description: The Vercel AI SDK is **a library for building AI-powered streaming
+    text and chat UIs**
+  package_url: https://www.npmjs.com/ai
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: arg
+  description: Another simple argument parser
+  package_url: https://www.npmjs.com/arg
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17564/default_99afdc7126f8a31ae778ef58d50c93ae3dd88880.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: args
+  description: Minimal toolkit for building CLIs
+  package_url: https://www.npmjs.com/args
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18244/default_b102609c7a7fb86f3c2ca3ec026f3011d275978b.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: array-flatten
+  description: Flatten nested arrays
+  package_url: https://www.npmjs.com/array-flatten
+  version: 1.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18115/image.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: ava
+  description: Testing can be a drag. AVA helps you get it done
+  package_url: https://www.npmjs.com/ava
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15883/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/ejs/package.json
+  detection_source: node_modules/ejs/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: aws4
+  description: Signs and prepares requests using AWS Signature Version 4
+  package_url: https://www.npmjs.com/aws4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18421/default_fec2a16e3d4fd2d8184d454d72a65ab5133ec4ae.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: basic-auth
+  description: Node.js basic auth parser
+  package_url: https://www.npmjs.com/basic-auth
+  version: 2.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17338/default_b39374c3a74b433364bfdbff07be26214bf186fd.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/morgan/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: benchmark
+  description: A benchmarking library that supports high-resolution timers &amp; returns
+    statistically significant results
+  package_url: https://www.npmjs.com/benchmark
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16241/default_cbc604730ab04341982d806fe402cd0706cc8bf4.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/lokijs/package.json
+  detection_source: node_modules/lokijs/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: bl
+  description: 'Buffer List: collect buffers and access with a standard readable Buffer
+    interface'
+  package_url: https://www.npmjs.com/bl
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17221/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/lokijs/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: body-parser
+  description: Node.js body parsing middleware
+  package_url: https://www.npmjs.com/body-parser
+  version: 1.20.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15906/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: brfs
+  description: Browserify fs.readFileSync
+  package_url: https://www.npmjs.com/brfs
+  version: 2.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16397/default_f1e46d83300118af569c79b07f85830bc788c2d1.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: bson
+  description: A bson parser for node.js and the browser
+  package_url: https://www.npmjs.com/bson
+  version: 1.1.5
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17380/default_c1932d441699b98abea6098c6f8f65e2acb4f5ed.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: cac
+  description: Simple yet powerful framework for building command-line apps
+  package_url: https://www.npmjs.com/cac
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18731/default_896e971e78d35d9228342aa32100298402d2473b.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/ejs/package.json
+  detection_source: node_modules/ejs/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: camelcase
+  description: 'Convert a dash/dot/underscore/space separated string to camelCase
+    or PascalCase: `foo-bar` → `fooBar`'
+  package_url: https://www.npmjs.com/camelcase
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16559/default_50be6a65e5f7390c20dda2f19371abc1271db012.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: chai-subset
+  description: Object properties matcher for Chai
+  package_url: https://www.npmjs.com/chai-subset
+  version: 1.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17233/default_9fc4b0c75e3fd0ca34b2b1e215b90fd3d79ddde3.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 4.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: cli
+  description: A tool for rapidly building command line apps
+  package_url: https://www.npmjs.com/cli
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17384/default_b39374c3a74b433364bfdbff07be26214bf186fd.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/ejs/package.json
+  detection_source: node_modules/ejs/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: co
+  description: Generator async control flow goodness
+  package_url: https://www.npmjs.com/co
+  version: 4.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16007/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: code
+  description: Assertion library
+  package_url: https://www.npmjs.com/code
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16417/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/express/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: color
+  description: Color conversion and manipulation with CSS string support
+  package_url: https://www.npmjs.com/color
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16600/default_9d292a50abc76f1f74581b311ad930a616b1785c.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: conf
+  description: Simple config handling for your app or module
+  package_url: https://www.npmjs.com/conf
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17998/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: config
+  description: Configuration control for production node deployments
+  package_url: https://www.npmjs.com/config
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16353/default_b5c8f3c8e46d368f74a982d06d7f13291fe651ea.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: connect
+  description: High performance middleware framework
+  package_url: https://www.npmjs.com/connect
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16202/default_2c2f2c7b016f84c0fad2576cb986cb14a5dbbc2f.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/express/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: connect-redis
+  description: Redis session store for Connect
+  package_url: https://www.npmjs.com/connect-redis
+  version: 3.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17325/default_6afdd1bc7e3815a18b56c31d0b4acf372c00f6e2.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/express/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: content-disposition
+  description: Create and parse Content-Disposition header
+  package_url: https://www.npmjs.com/content-disposition
+  version: 0.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18396/default_dc6769b9772560ba4cb2cd0455560c2922e23c92.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: content-type
+  description: Create and parse HTTP Content-Type header
+  package_url: https://www.npmjs.com/content-type
+  version: 1.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17887/default_788839e3786ca1ccd5da69cc550f25d0129fb180.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: cookie
+  description: HTTP server cookie parsing and serialization
+  package_url: https://www.npmjs.com/cookie
+  version: 0.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16660/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: cookie-parser
+  description: Parse HTTP request cookies
+  package_url: https://www.npmjs.com/cookie-parser
+  version: 1.4.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16136/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: cookie-session
+  description: Cookie session middleware
+  package_url: https://www.npmjs.com/cookie-session
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17669/default_4ba4cce198b4498f328ca26971f69b03cf49892a.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/express/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: cookie-signature
+  description: Sign and unsign cookies
+  package_url: https://www.npmjs.com/cookie-signature
+  version: 1.0.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18266/default_7f9b12bbc55824c0dff067aa1286b7d2699852f9.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: cookies
+  description: Cookies, optionally signed using Keygrip
+  package_url: https://www.npmjs.com/cookies
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17767/default_a53af9d6b5a4c8c6e8d5f8494d76a8d2efd3e660.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: copy
+  description: Copy files or directories using globs
+  package_url: https://www.npmjs.com/copy
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17538/default_1922051267fa78212ab6eb1238cdf6aab8771493.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: cross-env
+  description: Run scripts that set and use environment variables across platforms
+  package_url: https://www.npmjs.com/cross-env
+  version: 6.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: d3
+  description: Data-Driven Documents
+  package_url: https://www.npmjs.com/d3
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16224/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/morgan/package.json
+  detection_source: node_modules/morgan/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: debug
+  description: Small debugging utility
+  package_url: https://www.npmjs.com/debug
+  version: 2.6.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15852/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: del
+  description: Delete files and directories
+  package_url: https://www.npmjs.com/del
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15907/default_a582b9fecca65f37fe68520c8f84d3bcae35db24.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/ejs/package.json
+  detection_source: node_modules/ejs/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: depd
+  description: Deprecate all the things
+  package_url: https://www.npmjs.com/depd
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17670/default_4ba4cce198b4498f328ca26971f69b03cf49892a.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: es6-promise
+  description: A lightweight library that provides tools for organizing asynchronous
+    code
+  package_url: https://www.npmjs.com/es6-promise
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16051/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: escape-html
+  description: Escape string for use in HTML
+  package_url: https://www.npmjs.com/escape-html
+  version: 1.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17037/default_88e2e076a71afdc1de87ad42c80c1606f2689af1.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 6.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: eslint-config-standard
+  description: JavaScript Standard Style - ESLint Shareable Config
+  package_url: https://www.npmjs.com/eslint-config-standard
+  version: 14.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15872/default_e4668902f8489350db9b0fb228523a571ef05b26.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.25.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: eslint-plugin-markdown
+  description: An ESLint plugin to lint JavaScript in Markdown code fences
+  package_url: https://www.npmjs.com/eslint-plugin-markdown
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16770/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: eslint-plugin-node
+  description: Additional ESLint's rules for Node.js
+  package_url: https://www.npmjs.com/eslint-plugin-node
+  version: 11.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15874/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 3.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: eslint-plugin-promise
+  description: Enforce best practices for JavaScript promises
+  package_url: https://www.npmjs.com/eslint-plugin-promise
+  version: 4.3.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15885/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: eslint-plugin-standard
+  description: ESlint Plugin for the Standard Linter
+  package_url: https://www.npmjs.com/eslint-plugin-standard
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15884/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: etag
+  description: Create simple HTTP ETags
+  package_url: https://www.npmjs.com/etag
+  version: 1.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17743/default_552addbbff67ec0ef62ce1d229e112d14ca818f5.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: express-session
+  description: Simple session middleware for Express
+  package_url: https://www.npmjs.com/express-session
+  version: 1.17.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16239/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/express/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: ffi
+  description: A foreign function interface
+  package_url: https://www.npmjs.com/ffi
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17812/default_2a0f136cfb588dd9053268b73a18a953e8d65590.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: finalhandler
+  description: Node.js final http responder
+  package_url: https://www.npmjs.com/finalhandler
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17238/default_747c790463912ea0e3a85597146d9c13d6a53db9.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: flat
+  description: Take a nested Javascript object and flatten it
+  package_url: https://www.npmjs.com/flat
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17025/default_88e2e076a71afdc1de87ad42c80c1606f2689af1.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/express/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: flatten
+  description: Flatten arbitrarily nested arrays into a non-nested list of non-array
+    items
+  package_url: https://www.npmjs.com/flatten
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18737/default_7dcbb101f983d7e8258c98920653a3bec91f6992.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/express/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: fresh
+  description: HTTP response freshness testing
+  package_url: https://www.npmjs.com/fresh
+  version: 0.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18037/default_d8756eea8d13a271fb42437ffb36c0a116d72925.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: fs
+  description: This package name is not currently in use, but was formerly occupied
+    by another package
+  package_url: https://www.npmjs.com/fs
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16098/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: github
+  description: 'DEPRECATED: renamed to @octokit/rest'
+  package_url: https://www.npmjs.com/github
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16751/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: gm
+  description: GraphicsMagick and ImageMagick for node.js
+  package_url: https://www.npmjs.com/gm
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16804/default_55e3ea76a7929df1b71c5ea0c9b4130cc87323a4.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: grunt-cli
+  description: The grunt command line interface
+  package_url: https://www.npmjs.com/grunt-cli
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16021/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: grunt-contrib-clean
+  description: Clean files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-clean
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15939/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: grunt-contrib-concat
+  description: Concatenate files
+  package_url: https://www.npmjs.com/grunt-contrib-concat
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16075/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: grunt-contrib-copy
+  description: Copy files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-copy
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16056/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: grunt-contrib-uglify
+  description: Minify JavaScript files with UglifyJS
+  package_url: https://www.npmjs.com/grunt-contrib-uglify
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15954/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: grunt-contrib-watch
+  description: Run predefined tasks whenever watched file patterns are added
+  package_url: https://www.npmjs.com/grunt-contrib-watch
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15932/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: grunt-env
+  description: Specify an ENV configuration for future tasks in the chain
+  package_url: https://www.npmjs.com/grunt-env
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17194/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: grunt-exec
+  description: Grunt task for executing shell commands
+  package_url: https://www.npmjs.com/grunt-exec
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16754/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: grunt-karma
+  description: Grunt plugin for karma test runner
+  package_url: https://www.npmjs.com/grunt-karma
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16328/default_e8196e273db814cf9be505b35dec386fafb0dbaa.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: grunt-string-replace
+  description: Replaces strings on files by using string or regex patterns
+  package_url: https://www.npmjs.com/grunt-string-replace
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18170/default_9988dbfaa49c66b3557cfcb4d0066fa661722714.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: has
+  description: Object.prototype.hasOwnProperty.call shortcut
+  package_url: https://www.npmjs.com/has
+  version: 1.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18039/image.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/morgan/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: hbs
+  description: Express.js template engine plugin for Handlebars
+  package_url: https://www.npmjs.com/hbs
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17878/default_788839e3786ca1ccd5da69cc550f25d0129fb180.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/express/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: he
+  description: A robust HTML entities encoder/decoder with full Unicode support
+  package_url: https://www.npmjs.com/he
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17059/default_31b594d049ba66ce98c924544ccc4329a3f2d530.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: http
+  package_url: https://www.npmjs.com/http
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16874/default_768abdabb94806c932ace6262b6bbc8241907245.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: http-errors
+  description: Create HTTP error objects
+  package_url: https://www.npmjs.com/http-errors
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16925/default_7b9968788548874538c601457e8dcd9c74bd2051.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: https
+  description: Https mediation
+  package_url: https://www.npmjs.com/https
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17546/default_8d32936cb624bf7f51657c1540463db0a3c4106e.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/ejs/package.json
+  detection_source: node_modules/ejs/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: i
+  description: Custom inflections for nodejs
+  package_url: https://www.npmjs.com/i
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17326/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: i18n
+  description: Lightweight translation module with dynamic json storage
+  package_url: https://www.npmjs.com/i18n
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17931/default_72dbba22ca96f25f78f55f8ea5393222efca5494.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: inherits
+  description: Browser-friendly inheritance fully compatible with standard node.js
+    inherits
+  package_url: https://www.npmjs.com/inherits
+  version: 2.0.4
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16376/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/http-errors/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: ini
+  description: An ini encoder/decoder for node
+  package_url: https://www.npmjs.com/ini
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16594/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/express/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: ip
+  description: "[![]"
+  package_url: https://www.npmjs.com/ip
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16483/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: is
+  description: The definitive JavaScript type testing library
+  package_url: https://www.npmjs.com/is
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17544/default_e665c133253b5cd434c1991167ebd25dc68f1c17.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: jake
+  description: JavaScript build tool, similar to Make or Rake
+  package_url: https://www.npmjs.com/jake
+  version: 10.8.5
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18060/image.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/ejs/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: karma-browserify
+  description: A fast browserify integration for Karma that handles large projects
+    with ease
+  package_url: https://www.npmjs.com/karma-browserify
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16294/default_8b65a873fd3277d73483d6846fa38192391abf23.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: karma-chrome-launcher
+  description: A Karma plugin. Launcher for Chrome and Chrome Canary
+  package_url: https://www.npmjs.com/karma-chrome-launcher
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: karma-cli
+  description: The Karma command line interface
+  package_url: https://www.npmjs.com/karma-cli
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16104/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/lokijs/package.json
+  detection_source: node_modules/lokijs/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: karma-coverage
+  description: A Karma plugin. Generate code coverage
+  package_url: https://www.npmjs.com/karma-coverage
+  version: 1.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15951/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/lokijs/package.json
+  detection_source: node_modules/lokijs/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: karma-firefox-launcher
+  description: A Karma plugin. Launcher for Firefox
+  package_url: https://www.npmjs.com/karma-firefox-launcher
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16026/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: karma-jasmine
+  description: A Karma plugin - adapter for Jasmine testing framework
+  package_url: https://www.npmjs.com/karma-jasmine
+  version: 1.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15886/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/lokijs/package.json
+  detection_source: node_modules/lokijs/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: karma-mocha
+  description: A Karma plugin. Adapter for Mocha testing framework
+  package_url: https://www.npmjs.com/karma-mocha
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15962/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: karma-phantomjs-launcher
+  description: A Karma plugin. Launcher for PhantomJS
+  package_url: https://www.npmjs.com/karma-phantomjs-launcher
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15947/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/lokijs/package.json
+  detection_source: node_modules/lokijs/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: karma-qunit
+  description: A Karma plugin. Adapter for QUnit testing framework
+  package_url: https://www.npmjs.com/karma-qunit
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17515/default_1922051267fa78212ab6eb1238cdf6aab8771493.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: karma-sauce-launcher
+  description: A Karma plugin. Launch any browser on SauceLabs!
+  package_url: https://www.npmjs.com/karma-sauce-launcher
+  version: 4.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16460/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: load-grunt-tasks
+  description: Load multiple grunt tasks using globbing patterns
+  package_url: https://www.npmjs.com/load-grunt-tasks
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16062/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: lodash.camelcase
+  description: The lodash method `_.camelCase` exported as a module
+  package_url: https://www.npmjs.com/lodash.camelcase
+  version: 4.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16436/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: log
+  description: Universal pluggable logging utility
+  package_url: https://www.npmjs.com/log
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17960/default_e0b07170ab7d7ea66954ff35fdeaae5255c4c0aa.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: lru-cache
+  description: A cache object that deletes the least-recently-used items
+  package_url: https://www.npmjs.com/lru-cache
+  version: 4.0.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16386/default_4cc3f31b8c64a6268fc123f0965a09d1b11180af.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/ejs/package.json
+  detection_source: node_modules/ejs/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: marked
+  description: A markdown parser built for speed
+  package_url: https://www.npmjs.com/marked
+  version: 0.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16065/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/express/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+  vulnerabilities:
+  - name: Inefficient Regular Expression Complexity in marked
+    cve_id: CVE-2022-21681
+    cve_url: https://github.com/advisories/GHSA-5v2h-r2cx-5xgj
+    detected_date: Jan 15
+    severity: high
+    first_patched: 4.0.10
+  - name: Inefficient Regular Expression Complexity in marked
+    cve_id: CVE-2022-21680
+    cve_url: https://github.com/advisories/GHSA-rrrm-qjm4-v8hf
+    detected_date: Jan 15
+    severity: high
+    first_patched: 4.0.10
+- name: merge
+  description: Merge multiple objects into one, optionally creating a new cloned object
+  package_url: https://www.npmjs.com/merge
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16534/default_2d1a470f86144a45b7e94185b9a5aecb5ebb69f4.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/express/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: merge-descriptors
+  description: Merge objects using descriptors
+  package_url: https://www.npmjs.com/merge-descriptors
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18485/default_3ec0464ac20686e95d789b41ae623e935100ada7.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: method-override
+  description: Override HTTP verbs
+  package_url: https://www.npmjs.com/method-override
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16758/default_92482df1bcbe0d3a46cc1d597c9687a42da1cd04.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/express/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: methods
+  description: HTTP methods that node supports
+  package_url: https://www.npmjs.com/methods
+  version: 1.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17145/default_0ffbf6d9ee2940fe94be8424fd9afff068fff458.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: mocha-lcov-reporter
+  description: LCOV reporter for Mocha
+  package_url: https://www.npmjs.com/mocha-lcov-reporter
+  version: 1.2.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16120/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: mocha-sinon
+  description: Mocha integration for sinon
+  package_url: https://www.npmjs.com/mocha-sinon
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17842/default_b760b4f955878b0055c02bde0608c2f01e7d4f4f.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: moment
+  description: Parse, validate, manipulate, and display dates
+  package_url: https://www.npmjs.com/moment
+  version: 2.29.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: morgan
+  description: HTTP request logger middleware for node.js
+  package_url: https://www.npmjs.com/morgan
+  version: 1.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16097/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: ms
+  description: Tiny millisecond conversion utility
+  package_url: https://www.npmjs.com/ms
+  version: 2.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16565/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: multiparty
+  description: Multipart/form-data parser which supports streaming
+  package_url: https://www.npmjs.com/multiparty
+  version: 4.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17690/default_e87994647b10b361432e73d1831e5982307760e2.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/express/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: mv
+  description: Fs.rename but works across devices
+  package_url: https://www.npmjs.com/mv
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17889/default_788839e3786ca1ccd5da69cc550f25d0129fb180.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: node
+  description: Node
+  package_url: https://www.npmjs.com/node
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17983/default_fc5f66cf44024e173fd07c415d4f30ca58b4cbad.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: np
+  description: A better `npm publish`
+  package_url: https://www.npmjs.com/np
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16247/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: npm
+  description: A package manager for JavaScript
+  package_url: https://www.npmjs.com/npm
+  license: Artistic-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16105/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: nyc
+  description: The Istanbul command line interface
+  package_url: https://www.npmjs.com/nyc
+  version: 15.1.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15837/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: ol
+  description: OpenLayers mapping library
+  package_url: https://www.npmjs.com/ol
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18695/default_ba22650903e999378ab35f8093d2d808f0a46039.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: on-finished
+  description: Execute a callback when a request closes
+  package_url: https://www.npmjs.com/on-finished
+  version: 2.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17498/default_e5adc22c59a44962e41dfaec51edeb42c083f2f4.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: on-headers
+  description: Execute a listener when a response is about to write headers
+  package_url: https://www.npmjs.com/on-headers
+  version: 1.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18231/default_399b42b64f69a249ba1359dbaca6e1579548ccff.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/morgan/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: os
+  description: NodeJS Core Module Extended
+  package_url: https://www.npmjs.com/os
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17784/default_b760b4f955878b0055c02bde0608c2f01e7d4f4f.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: parseurl
+  description: Parse a url with memoization
+  package_url: https://www.npmjs.com/parseurl
+  version: 1.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17347/default_b8b4be8bd54f9619446b80b2bf448c0891101f2a.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: path
+  description: Node.JS path module
+  package_url: https://www.npmjs.com/path
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16082/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/express/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: path-to-regexp
+  description: Express style path to RegExp utility
+  package_url: https://www.npmjs.com/path-to-regexp
+  version: 0.1.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16316/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: phantom
+  description: PhantomJS integration module for NodeJS
+  package_url: https://www.npmjs.com/phantom
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17469/default_2a4dc012d9584af49ba34825451ae7a5a8d75e4b.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/lokijs/package.json
+  detection_source: node_modules/lokijs/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: promise
+  description: Bare bones Promises/A+ implementation
+  package_url: https://www.npmjs.com/promise
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16093/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: publish
+  description: Npm auto publishing of your modules
+  package_url: https://www.npmjs.com/publish
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18190/default_b56a957d927d2e40d2c7cf9f3588b95c4df2c97c.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/lokijs/package.json
+  detection_source: node_modules/lokijs/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: qs
+  description: A querystring parser that supports nesting and arrays
+  package_url: https://www.npmjs.com/qs
+  version: 6.11.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16125/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: raf
+  description: RequestAnimationFrame polyfill for node and the browser
+  package_url: https://www.npmjs.com/raf
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16199/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/lokijs/package.json
+  detection_source: node_modules/lokijs/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: range-parser
+  description: Range header field string parser
+  package_url: https://www.npmjs.com/range-parser
+  version: 1.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18315/default_f1e168ebe0f124084b9a0acbe78bc5cdba7b4575.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: rc
+  description: Hardwired configuration loader
+  package_url: https://www.npmjs.com/rc
+  license: BSD-2-Clause,MIT,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16813/default_5c6919c5e02b8e6c83f3a2b23db5b6962e3caca0.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: read
+  description: Read
+  package_url: https://www.npmjs.com/read
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17342/default_66bbb2a75a0234b1bfceaa99b8e82825fa7b8284.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/http-errors/package.json
+  detection_source: node_modules/http-errors/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: ref
+  description: Turn Buffer instances into "pointers"
+  package_url: https://www.npmjs.com/ref
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18418/default_4d27e57a415c059481cbe1fd0734523c261d311a.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: replace
+  description: Command line search and replace utility
+  package_url: https://www.npmjs.com/replace
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16890/default_143d92b1fc944107cf48a3ab42a2a347bf3d91b5.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: request
+  description: Simplified HTTP request client
+  package_url: https://www.npmjs.com/request
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15823/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: resolve
+  description: Resolve like require.resolve
+  package_url: https://www.npmjs.com/resolve
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16128/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/morgan/package.json
+  detection_source: node_modules/morgan/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 2.5.4
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/lokijs/package.json
+  detection_source: node_modules/lokijs/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: s3
+  description: High level amazon s3 client
+  package_url: https://www.npmjs.com/s3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18491/default_0f684fdba52879fd48ceb8876e4283627899355a.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: safe-buffer
+  description: Safer Node.js Buffer API
+  package_url: https://www.npmjs.com/safe-buffer
+  version: 5.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16801/default_dc62f5e9b636403c2d19676924f5b6b881abcac8.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: semver
+  description: The semantic version parser used by npm
+  package_url: https://www.npmjs.com/semver
+  version: 5.5.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18809/default_dad3dc9dde4b82dc2a7bd32aa091165887abe57b.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+  vulnerabilities:
+  - name: semver vulnerable to Regular Expression Denial of Service
+    cve_id: CVE-2022-25883
+    cve_url: https://github.com/advisories/GHSA-c2qf-rxjj-qqgw
+    detected_date: Jun 23
+    severity: moderate
+    first_patched: 5.7.2
+- name: send
+  description: Better streaming static file server with Range and conditional-GET
+    support
+  package_url: https://www.npmjs.com/send
+  version: 0.18.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17093/default_1dbf402c11ef653fcaedc84e608a244e30ebfb87.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: serve
+  description: Static file serving and directory listing
+  package_url: https://www.npmjs.com/serve
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16484/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/express/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: serve-static
+  description: Serve static files
+  package_url: https://www.npmjs.com/serve-static
+  version: 1.15.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16295/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: should
+  description: Test framework agnostic BDD-style assertions
+  package_url: https://www.npmjs.com/should
+  version: 4.6.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15871/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/lokijs/package.json
+  detection_source: node_modules/lokijs/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: sinon-chai
+  description: Extends Chai with assertions for the Sinon.JS mocking framework
+  package_url: https://www.npmjs.com/sinon-chai
+  version: 3.2.0
+  license: BSD-2-Clause,WTFPL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15914/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: st
+  description: A module for serving static files. Does etags, caching, etc
+  package_url: https://www.npmjs.com/st
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18455/default_d8e945bfec4c4a608fb0493abf73c9ec1cffc9a2.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: standard
+  description: JavaScript Standard Style
+  package_url: https://www.npmjs.com/standard
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15878/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: standard-version
+  description: Replacement for `npm version` with automatic CHANGELOG generation
+  package_url: https://www.npmjs.com/standard-version
+  version: 9.2.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16053/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: statuses
+  description: HTTP status utility
+  package_url: https://www.npmjs.com/statuses
+  version: 2.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18232/default_006273ebad013729e0798e0376579caca9efaa4e.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: string
+  description: String contains methods that aren't included in the vanilla JavaScript
+    string such as escaping html
+  package_url: https://www.npmjs.com/string
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16825/default_dc62f5e9b636403c2d19676924f5b6b881abcac8.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: supports-color
+  description: Detect whether a terminal supports color
+  package_url: https://www.npmjs.com/supports-color
+  version: 7.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17084/default_23002b02644a8cb313a0f53f43df271731022a9e.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: tap
+  description: A Test-Anything-Protocol library for JavaScript
+  package_url: https://www.npmjs.com/tap
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16027/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/express/package.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: tar
+  description: Tar for node
+  package_url: https://www.npmjs.com/tar
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16466/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: temp
+  description: Temporary files and directories
+  package_url: https://www.npmjs.com/temp
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16400/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/ejs/package.json
+  detection_source: node_modules/ejs/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: test
+  description: ''
+  package_url: https://www.npmjs.com/test
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18204/default_329699d382cad74e0d389300999bd267b9699d3f.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: tsc
+  description: Latest code from microsoft/typescript packaged and released
+  package_url: https://www.npmjs.com/tsc
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18739/default_45da7a7c78da21b4de04db19cc949c3490185f5e.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: tslib
+  description: Runtime library for TypeScript helper functions
+  package_url: https://www.npmjs.com/tslib
+  version: 2.2.0
+  license: 0BSD
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: type-is
+  description: Infer the content-type of a request
+  package_url: https://www.npmjs.com/type-is
+  version: 1.6.18
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17768/default_b760b4f955878b0055c02bde0608c2f01e7d4f4f.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: typings
+  description: The TypeScript Definition Manager
+  package_url: https://www.npmjs.com/typings
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16198/default_b4f5b6f31c5ab1ffee4bacf20842cd41a8f2658d.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: uglify
+  description: A simple tool to uglify javascript &amp; css files
+  package_url: https://www.npmjs.com/uglify
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18097/image.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/ejs/package.json
+  detection_source: node_modules/ejs/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: uglify-js
+  description: JavaScript parser
+  package_url: https://www.npmjs.com/uglify-js
+  version: 3.3.16
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15900/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/ejs/package.json
+  detection_source: node_modules/ejs/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: unified
+  description: Interface for processing text using syntax trees
+  package_url: https://www.npmjs.com/unified
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17259/default_03da3f7f53e439ab3b23ec47828b2f3229885efd.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: url
+  description: The core `url` packaged standalone for use with Browserify
+  package_url: https://www.npmjs.com/url
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16462/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: util
+  description: Node.js's util module for all engines
+  package_url: https://www.npmjs.com/util
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16507/default_55f3303d620c93eecbee69c43373d484f2be492f.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: util.promisify
+  description: Polyfill/shim for util.promisify in node versions &lt; v8
+  package_url: https://www.npmjs.com/util.promisify
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18011/image.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: utils-merge
+  description: Merge
+  package_url: https://www.npmjs.com/utils-merge
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17738/default_b527ab15473225ca7c2e9b197c9726e92ac97de8.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/package-lock.json
+  detection_source: node_modules/express/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: vision
+  description: Templates rendering plugin support for hapi.js
+  package_url: https://www.npmjs.com/vision
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18118/image.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/cookie-parser/package.json
+  detection_source: node_modules/cookie-parser/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: watch
+  description: Utilities for watching file trees
+  package_url: https://www.npmjs.com/watch
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16280/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: write
+  description: Write data to a file, replacing the file if it already exists and creating
+    any intermediate directories if they don't already exist
+  package_url: https://www.npmjs.com/write
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18762/default_b057657dca80f65f97b5bbe8ba405ffa92071739.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/moment/package.json
+  detection_source: node_modules/moment/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: xo
+  description: JavaScript linter with great defaults
+  package_url: https://www.npmjs.com/xo
+  version: 0.23.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16016/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/debug/package.json
+  detection_source: node_modules/debug/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: xunit-file
+  description: Basically the same reporter as mocha's xunit reporter
+  package_url: https://www.npmjs.com/xunit-file
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18254/default_315a767553036d5263c95420817fe68cd3885651.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Blejzer
+  last_updated_on: 2023-06-27 11:31:46.000000000 Z
+- name: yargs
+  description: Yargs the modern, pirate-themed, successor to optimist
+  package_url: https://www.npmjs.com/yargs
+  version: 14.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15887/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/mongodb/package.json
+  detection_source: node_modules/mongodb/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: yo
+  description: CLI tool for running Yeoman generators
+  package_url: https://www.npmjs.com/yo
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17899/default_3bc64391130859f94a137a7dc6cb87cd54da546b.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/lokijs/package.json
+  detection_source: node_modules/lokijs/package.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
+- name: bower
+  description: Atom javascript framewok
+  package_url: http://bower.io/bower
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/Blejzer/ArduinoApiREST/blob/master/node_modules/lokijs/bower.json
+  detection_source: node_modules/lokijs/bower.json
+  last_updated_by: Nikola Kujaca
+  last_updated_on: 2020-10-15 19:30:11.000000000 Z
