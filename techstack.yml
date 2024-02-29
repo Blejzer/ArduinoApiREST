@@ -2,7 +2,7 @@ repo_name: Blejzer/ArduinoApiREST
 report_id: 6196dd254bbdc7eda3d3ed6530275a3c
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-01T07:42:15+00:00'
+timestamp: '2024-02-29T19:50:24+00:00'
 requested_by: Blejzer
 provider: github
 branch: master
@@ -192,7 +192,7 @@ tools:
   last_updated_by: Nikola Kujaca
   last_updated_on: 2020-10-15 19:30:11.000000000 Z
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
@@ -299,7 +299,7 @@ tools:
   last_updated_by: Nikola Kujaca
   last_updated_on: 2020-10-15 19:30:11.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   open_source: true
   hosted_saas: false
@@ -699,7 +699,7 @@ tools:
   last_updated_by: Nikola Kujaca
   last_updated_on: 2020-10-15 19:30:11.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.19.1
   license: MIT
@@ -790,7 +790,7 @@ tools:
   last_updated_by: Nikola Kujaca
   last_updated_on: 2020-10-15 19:30:11.000000000 Z
 - name: Split
-  description: 'Split provides a unified solution for feature flags and experimentation '
+  description: Split provides a unified solution for feature flags and experimentation
   website_url: http://www.split.io
   open_source: false
   hosted_saas: true
@@ -802,7 +802,7 @@ tools:
   last_updated_by: Nikola Kujaca
   last_updated_on: 2020-10-15 19:30:11.000000000 Z
 - name: SuperTest
-  description: 'A library for testing node.js HTTP servers '
+  description: A library for testing node.js HTTP servers
   website_url: https://www.npmjs.com/package/supertest
   version: 6.1.6
   license: MIT
